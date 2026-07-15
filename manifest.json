@@ -1,0 +1,8 @@
+{
+  "name": "Dienstplan",
+  "theme_color": "#e0263a",
+  "background_color": "#0a0a0a",
+  "display": "fullscreen",
+  "scope": "/",
+  "start_url": "/index.html"
+}
